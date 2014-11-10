@@ -15,6 +15,5 @@ body {
   position: absolute;
   width: 100vw;
   top: 50%;
-  transform: translateX(-20%);
   text-shadow: 5px 4px 25px #206C71;
 }
